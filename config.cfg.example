@@ -1,0 +1,9 @@
+# Modify this file and save it as config.cfg
+
+[authentication]
+username = ENTER_YOUR_USERNAME_HERE_REMOVE_THIS_UNDERSCORED_STRING_IF_NONE
+password = ENTER_YOUR_PASSWORD_HERE_REMOVE_THIS_UNDERSCORED_STRING_IF_NONE
+
+[webdav]
+idevice_ip = ENTER_IOS_IP_HERE
+port = ENTER_WEBDAV_PORT_HERE
